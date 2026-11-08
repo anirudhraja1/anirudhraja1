@@ -1,44 +1,47 @@
-# Hi, I'm Anirudh Raja
+# Hi, I'm Anirudh Raja 👋
 
-I recently graduated in applied mathematics and I'm moving into computer science and AI. I like building AI systems that work reliably, and I enjoy the math that sits underneath them.
+I'm an Applied Mathematics grad from UC Santa Cruz, currently working on my online M.S. in Computer Science and Artificial Intelligence at Boston University. I'm also starting as a Technology Analyst (AI) at Accenture in San Francisco. I like building AI systems that actually work, especially LLM and RAG pipelines, agentic systems, and causal inference.
 
-## About me
+📄 [Resume (PDF)](Anirudh_Raja_Resume.pdf)
+💼 [LinkedIn](https://www.linkedin.com/in/anirudh-raja/)
+📫 rudyraja04@gmail.com
 
-- B.S. in Applied Mathematics, UC Santa Cruz (June 2026), Dean's Honors List 2024 to 2026
-- Studying for an online M.S. in Computer Science and AI at Boston University (started Fall 2026)
-- Starting full-time at Accenture in San Francisco in October 2026 as a technology analyst working on AI
-- Previously: AI and data science intern at Informatica (Salesforce), summer 2025, and DevOps intern at DigitalXC, summer 2021
-- Based in the San Francisco Bay Area
+## What I work on
 
-## What I'm interested in
-
-- Agentic AI systems and LLM tooling
-- Retrieval-augmented generation (RAG): chunking, retrieval quality, and evaluation
+- LLM and RAG pipelines
+- Agentic AI systems
 - Backend microservices
 - Causal inference and statistical modeling
-- Applied math problems like optimization, routing, and epidemic modeling
 
-## Skills I'm building
+## Tech I use
 
-| Area | Tools |
-|---|---|
-| Languages | Python, C, Java |
-| Data and ML | NumPy, pandas, matplotlib |
-| AI | LLM APIs, RAG pipelines |
-| Tools | Git, GitHub, Linux command line |
+**Languages:** Python, Java, C/C++, R
+**AI and ML:** LLMs, RAG, LangChain, OpenAI API, Azure OpenAI, EconML, NumPy, pandas
+**Cloud and tools:** AWS, Docker, Kubernetes, REST APIs, Linux, Git, OpenSearch, Jupyter
 
-## Selected work
+## Projects
 
-- **RAG compliance research assistant**: a Claude-powered assistant that answers compliance questions from source documents. [link to repo]
-- **Energy-efficient drone routing**: an applied math paper on routing drones over flexible survey regions.
-- **Epidemic modeling with MEDIDA**: a group project applying a sparse Bayesian framework to SIR and SEIR models using COVID data.
+**RAG Compliance Research Assistant** (Python, Claude API)
+A retrieval-augmented generation system that answers compliance questions from source documents using embeddings and semantic search. I spent a lot of time debugging retrieval quality by looking at how documents were chunked and which passages came back for each query. [link to repo]
 
-## What I'm working toward
+**Energy-Efficient Drone Routing** (Applied Mathematics paper)
+A study of routing for drones surveying flexible regions, focused on reducing energy use.
 
-I want to build and ship AI systems that people can rely on. Over the next two years in my master's program I plan to deepen my skills in machine learning, cloud computing, and systems, and add well-documented projects here as I finish them.
+**Epidemic Modeling with MEDIDA** (group project, Python)
+Applied a sparse Bayesian framework to SIR and SEIR epidemic models using COVID-19 data, then presented the results.
 
-## Resume and contact
+**Financial Market Forecasting** (R)
+Time-series models to predict asset price trends and volatility, plus statistical analysis of historical data to find risk patterns.
 
-- Resume: [Resume (PDF)](resume/Anirudh_Raja_Resume.pdf)
-- LinkedIn: [linkedin.com/in/anirudh-raja](https://www.linkedin.com/in/anirudh-raja/)
-- Email: rudyraja04@gmail.com
+**Smart Stop Sign System** (Python, Arduino, Google Maps API)
+An embedded system that detects approaching vehicles with motion sensors and triggers adaptive LED signals to make intersections safer at night.
+
+## Experience
+
+- **Accenture**, Technology Analyst (AI), Oct 2026 to present
+- **Informatica (acquired by Salesforce)**, AI and Data Science Intern, summer 2025
+- **DigitalXC**, DevOps and Automation Intern, summer 2021
+
+## Certifications
+
+AWS Certified Cloud Practitioner | Stanford Machine Learning (Andrew Ng) | Google Generative AI Foundations
