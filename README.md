@@ -22,7 +22,7 @@ I'm an Applied Mathematics grad from UC Santa Cruz, currently working on my onli
 ## Projects
 
 **RAG Compliance Research Assistant** (Python, Claude API)
-A retrieval-augmented generation system that answers compliance questions from source documents using embeddings and semantic search. I spent a lot of time debugging retrieval quality by looking at how documents were chunked and which passages came back for each query. [link to repo]
+A retrieval-augmented generation system that answers compliance questions from source documents using embeddings and semantic search. I spent a lot of time debugging retrieval quality by looking at how documents were chunked and which passages came back for each query.
 
 **Energy-Efficient Drone Routing** (Applied Mathematics paper)
 A study of routing for drones surveying flexible regions, focused on reducing energy use.
